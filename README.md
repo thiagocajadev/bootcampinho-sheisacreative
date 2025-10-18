@@ -13,4 +13,5 @@ Obs: O pequeno boi que nos passa os desafios é o **Alfred**. 🐮
 
 ## Índice
 
-- [AULA 01 - Apresentação do Curso - O que é UI e UX?](docs/01-apresentacao-do-curso.md)
+- [Módulo 1 – Apresentação do Bootcampinho UI/UX Design](docs/01-apresentacao-do-bootcampinho.md)
+- [Módulo 2 – Começando um projeto](docs/02-comecando-um-projeto.md)
