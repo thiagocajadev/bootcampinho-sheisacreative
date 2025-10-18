@@ -1,6 +1,6 @@
 # O que é UI e UX
 
-Esses essas letrinhas andam sempre de mãos dadas:
+Essas letrinhas andam sempre de mãos dadas:
 
 - **UI: User Interface** ou **Interface do Usuário**. É o que o usuário vê, seja a tela de aplicativos, sites, painéis, caixas de dialogo, etc.
 
