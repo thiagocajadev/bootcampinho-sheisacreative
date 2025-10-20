@@ -1,127 +1,117 @@
-# Começando um projeto
+# Design Thinking
 
-Acredito que todo projeto tem que ter uma etapa de marco zero. As definições são muito importantes antes de qualquer outra fase.
+O **Design Thinking** é uma importante metodologia (framework) de **resolução de problemas**, muito utilizada nas áreas de design de interface e experiência do usuário.
 
-![alt text](imgs/briefing-reunindo-informacao.png)  
-<small>Imagem: Coletando e organizando informações. Créditos: [PNG Tree.](https://pngtree.com/free-png-vectors/briefing-team-vector)</small>
+Vamos as definições:
 
-Então bora olhar com carinho para a **fundação do projeto**.
+**Design Thinking** (em português: “Pensamento de Design” ou “Mentalidade de Design”) é uma metodologia de **resolução de problemas centrada no ser humano**, usada para criar soluções inovadoras com base em empatia, experimentação e colaboração.
 
-## Antes dos antes: o que é design?
+![Pensamento de Design](imgs/design-thinking.png)
+<small>Imagem: Processos do Pensamento de Design. Créditos: [@sheisacreative.](https://sheisacreative.com.br/bootcampinho/o-que-e-design-thinking)</small>
 
-> [!NOTE]
->
-> **Design** vem do inglês **to design**, que significa “projetar”, “planejar” ou “conceber algo com propósito”.
+## Processos do Design Thinking
 
-Design = “projeto com intenção”.
+Abaixo as 5 principais etapas do processo:
 
-Design não é só aparência, é o planejamento de como algo vai funcionar e ser percebido.
+- **Descobrir:** conhecer o máximo sobre o produto e problemas. Dessa forma são obtidas várias suposições sobre o mesmo problema.
 
-É o processo de criar soluções visuais, funcionais ou estruturais para atender uma necessidade humana ou de negócio.
+- **Definir:** alinhamento de objetivos, ideias e problema central. Aqui é definido qual é o real problema a ser resolvido.
 
-O design busca equilibrar estética e função.
-Ou seja: não basta ser bonito, precisa funcionar bem e comunicar com clareza.
+- **Idealizar:** encontrar o máximo de soluções possíveis. Dessa forma, multiplicamos as sugestões e ideias para resolver o problema.
 
-Exemplos:
+- **Prototipar:** desenvolver as melhores soluções para testar. Com isso, é gerado um protótipo de alta fidelidade com a solução aplicada.
 
-- Um site pode ter cores lindas (bom design visual), mas se o menu for confuso, o design falhou na função.
-
-- Já um formulário simples e claro, que o usuário preenche sem esforço, é um design eficiente, mesmo sem muitos enfeites.
-
-## O que fazer antes do Design?
-
-A primeira coisa mais importante é **ter uma noção de fato do que será feito**. Algumas noções básicas:
-
-- Tamanho do projeto.
-- Qual será o escopo do que vai ser feito (com flexilidade pra alterações).
-- Prazos para entregas.
-
-Por convenção, criamos um documento chamado de **Briefing** para organizar essas informações.
+- **Testar:** validar a solução. Na validação, podem surgir novas suposições de problemas e ações de mitigação/correção.
 
 > [!NOTE]
 >
-> 📑 Briefing é um documento (ou reunião) que reúne as informações essenciais para iniciar um projeto. Seja de design, desenvolvimento, marketing, ou qualquer outro tipo.
+> Os processos são mais importantes do que as ferramentas. Persona, Figma, Canva, Adobe, Pesquisas...
+> Sabendo o que tem de ser feito primeiro, pra depois escolher o que usar pra fazer.
 
-O termo vem do inglês **brief**, que significa **“resumo”**.
-Um **briefing** é literalmente um resumo das necessidades e objetivos do projeto.
+## Discovery - Descobrir
 
-Podemos considerar como o ponto de partida que orienta:
+Olhando para o **diamante duplo**, nós começamos com a suposição do problema. Aqui é o **achismo** mesmo. É uma etapa de abrangência.
 
-- O que será feito.
-- Por que será feito.
-- Para quem será feito.
-- E com quais recursos será feito.
+> Exemplo: "Eu acho que as empresas não estão comprando o produto pois não há divulgação."
 
-## Quem é o cliente?
+Então, usando o pensamento crítico pra saber se isso é uma verdade, vamos a primeira etapa do processo: **descobrir**.
 
-Pode ser uma empresa ou alguém dentro do seu trabalho solicitando um projeto. Tente entender o máximo possível sobre o cliente, veja seu perfil (apressado, confuso, racional, organizado, etc...).
+É a hora de descobrir tudo relacionado a suposição, coisas que são de conhecimento e coisas nunca imaginadas sobre o problema. Essa etapa é muito abrangente, tendo tarefas como:
 
-Solicite a ele o material da marca (se disponível).
+- Briefing: Aquela etapa do resumo com detalhes das informações fornecidas pelo cliente.
+- Pesquisas: Quantitativa, qualitativa, conversas, mensagens e formulários ajudam bastante.
+- Análise do Produto e concorrentes: olhar pro mercado e fazer as comparações pertinentes.
 
-Peça referências do que o cliente gosta, inspirações de benchmark e quem são seus potenciais concorrentes.
+O resultado dessa etapa do processo é o encontro de várias causas do problema. Seguindo o exemplo acima:
 
-E que tal um questionário pra ajudar nesse "pente fino", ajudando a entender o universo desse cliente:
+> "Não compram o produto porquê não sabem que ele existe."  
+> "Não compram o produto porquê não sabem como comprar."  
+> "Não compram o produto porquê não sabem como especificar tecnicamente."
 
-- A marca usa mais curvas ou retas?
-- Quais são as cores da marca?
-- É uma marca que parece mais jovem ou mais tradicional?
-- Quais são as referências e qual sua expectativa?
-- Tem algum material que você achou legal e quer recomendar?
+## Define - Definir
 
-## Atenda o objetivo
+Agora vamos para etapa de convergência, consolidando as descobertas para **definir o problema real que será resolvido.** Seguindo o exemplo, temos a definição:
 
-O ponto principal aqui: **atender o objetivo do cliente** 🎯.
+> "O produto precisa de uma melhor divulgação, com especificação objetiva e venda facilitada."
 
-Não adianta nada criar um design na régua, com perfeição na estrutura se ele não atende ao contexto do que foi pedido.
+## Ideate - Idealizar
 
-Sabe quando você vai cortar o cabelo, **pede um corte degradê** e o barbeiro **apenas passa a maquininha 180º?** Bem, é complicado cara. Hahaha.
+A etapa de idealizar é mais uma etapa abrangente. Encontre o máximo de soluções para o problema que foi definido. Tarefas comuns:
 
-Tente escrever em uma linha a frase do que será feito. Isso servirá pra validar e aprovar para ir aos próximos passos.
+- Definir fluxos: Desenhos, passo a passos, entrada e saída, pense como o usuário/cliente, etc.
+- Esboçar ideias: Wireframes, brainstorming, swot, etc.
+- Testes rápidos: Algo que já cause algum direcionamento, uma pagina simples, um post, tela, etc.
 
-> Exemplo: Desenvolver um novo catálogo de produtos limpo e enxuto.
+## Prototype - Prototipar
 
-O Design nunca é um projeto estático. Nada é escrito em pedra, as coisas vão mudando, porém quanto melhor o alinhamento, mais o processo seguirá num fluxo adequado, evitando retrabalhos e desgaste.
+Convergindo o que foi idealizado no processo anterior, selecione as melhores ideias para criar protótipos e trabalhar com eles para gerar a solução. Tarefas comuns:
 
-A expectativa tem que estar sempre alinhada.
+- Criar protótipos: Tela/Página no Figma, Canva, Adobe XD, etc.
+- Alinhamento com devs: Verificação de viabilidade técnica.
+- Decisões técnicas de layouts: Escolha das tecnologias a serem utilizadas, prazos, custos, plataformas, etc.
 
-## Qual o tamanho do projeto
+## Test - Testar
 
-É muito fácil do projeto começar com algo bem simples e se tornar um monstro gigantesco se não houver a **restrição bem clara no escopo**.
+Hora de testar o que foi criado. Se for aderente, legal! Caso contrário, é hora de pensar e repensar. Nada impede voltar o processo do início ou etapas anteriores e melhorar a solução até resolver o problema.
 
-Exemplo:
+### Recomendação de livro
 
-> Cliente: "Eu preciso de um site simples, apenas uma página."
+Donald A. Norman — O design do dia a dia.
 
-Poucas semanas depois... site possui diversas páginas, validações, tema claro e escuro (tudo com orçamento estourado e algumas coisas não tão bem acabadas por falta de recursos).
-
-Nunca é um problema o projeto aumentar. É algo bom, pois está sendo atendido o propósito. A grande questão é sempre o alinhamento de ambas as partes, pra que todos tenham ciência dos custos, prazos e recursos que precisam ser dimensionados para atender plenamente as entregas.
-
-Uma métrica interessante de preço seria a cobrança por telas, por páginas, artes. Isso gera noção de entrega e valor.
-
-## Definição de Prazos
-
-Conforme a expectativa de prazos, alinhamos o que é possível fazer com as datas determinadas. Evite deixar virar bagunça.
-
-## Responsável pela aprovação
-
-As vezes, quem solicitou o projeto pode não ter alçada ou a última palavra pra fechar o projeto. Por isso é importante ter a definição de quem será o decisor. Somente com o aceite do decisor é que o projeto pode iniciar e avançar a cada etapa, conforme hajam alterações ou necessidade de novas aprovações.
+A leitura ajuda no design pensado nas pessoas.
 
 ## Desafio do Alfred 🐮
 
-"Projeto: Escolha um projeto para fazer durante o curso (tema livre)."
+"Briefing: crie o briefing do seu projeto."
 
-"Sugestão: evite utilizar as ideias desta página. Aproveite para exercitar a criatividade. Na dúvida, lembre de todos os momentos em que você passa um raivinha tentando fazer algo rs… (talvez seja um bom problema para resolver)."
+"Template de perguntas: de preferir, utilize as perguntas listadas em Briefing, disponível no template de projetos do Notion."
+
+Objetivo da etapa:
+Seu objetivo, ao final do briefing, é ter de forma clara:
+
+- Qual sua hipótese?
+- Qual problema você pretende resolver através do design thinking?
+
+Outras informações: Além disso, o briefing deverá conter o escopo do projeto, como prazos, limitações e outros.
 
 ## Resolução
 
-Projeto escolhido: Catálogo digital de produtos em PDF, com navegação por links.
+Informações adicionadas ao Briefing (em breve colocarei o link aqui).
 
-Fugindo um pouquinho dos padrões de sites e apps, o cliente precisa de ajuda para divulgar seus produtos em um catálogo digital. Pensando nos clientes do cliente, o meio mais simples é a divulgação de um documento PDF, disponível no site.
+Resumindo:
 
-Atendo ao objetivo criando algo mais clean e enxuto, guiando o olhar do cliente, proporcionando a melhor experiência ao pesquisar por uma peça, servindo como um pipeline de vendas.
+Objetivo da etapa:
+Seu objetivo, ao final do briefing, é ter de forma clara:
+
+- Qual sua hipótese?
+
+  > R: "Eu acho que as empresas não estão comprando o produto pois não há divulgação."
+
+- Qual problema você pretende resolver através do design thinking?
+  > R: "O produto precisa de uma melhor divulgação, com especificação objetiva e venda facilitada."
 
 ## Conclusão
 
-Assim com UI e UX andam sempre juntos, **Projetos** e **Processos** devem fazer o mesmo. O projeto é algo que tem início, meio e fim. O processo é o ciclo continuo, que se mantém funcionando após o término do projeto.
+Sou muito fã de organização. Seguir processos, passo a passo, fluxos validados e consolidados; só trazem vantagens para o designer e o cliente.
 
-Ter tudo bem definido e alinhado, aproxima a **expectativa da realidade**. Isso é fundamental em questão do que **foi idealizado ao que será entregue**.
+O **Pensamento de Design** é isso: É pensar projetando. Devemos nos importar com quem vai consumir e utilizar uma página, um produto ou serviço. Quanto melhores as coberturas, maiores as chances de sucesso.

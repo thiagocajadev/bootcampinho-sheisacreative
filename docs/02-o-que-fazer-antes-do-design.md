@@ -90,7 +90,7 @@ A expectativa tem que estar sempre alinhada.
 
 Exemplo:
 
-> Cliente: "Eu preciso de um site simples, apenas uma página."
+> Exemplo: "Eu preciso de um site simples, apenas uma página." — Disse o Cliente. 😄
 
 Poucas semanas depois... site possui diversas páginas, validações, tema claro e escuro (tudo com orçamento estourado e algumas coisas não tão bem acabadas por falta de recursos).
 

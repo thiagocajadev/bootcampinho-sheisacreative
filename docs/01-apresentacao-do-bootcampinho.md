@@ -78,11 +78,11 @@ Exemplos:
 
 1. Identificando etapas de UI:
 
-   Os 3 projetos apresentação logo de cara o seu **Design System** ou **Projeto do Sistema**. Aqui temos os elementos elencados acima: botões, ícones, tipografia, cores, espaçamentos, campos de formulário, menus e layouts.
+   > Os 3 projetos apresentação logo de cara o seu **Design System** ou **Projeto do Sistema**. Aqui temos os elementos elencados acima: botões, ícones, tipografia, cores, espaçamentos, campos de formulário, menus e layouts.
 
 2. Identificando etapas de UI:
 
-   Os 3 projetos explicam como será o fluxo de processo, apresentando os elementos elencados acima: usabilidade, acessibilidade, fluxo de navegação, tempo de resposta, clareza das ações e até o sentimento de satisfação ao usar.
+   > Os 3 projetos explicam como será o **fluxo de processo**, apresentando os elementos elencados acima: usabilidade, acessibilidade, fluxo de navegação, tempo de resposta, clareza das ações e até o sentimento de satisfação ao usar.
 
 ## Conclusão
 
