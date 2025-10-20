@@ -14,4 +14,5 @@ Obs: O pequeno boi que nos passa os desafios é o **Alfred**. 🐮
 ## Índice
 
 - [Módulo 1 – Apresentação do Bootcampinho UI/UX Design](docs/01-apresentacao-do-bootcampinho.md)
-- [Módulo 2 – Começando um projeto](docs/02-comecando-um-projeto.md)
+- [Módulo 2 – Antes do Design](docs/02-o-que-fazer-antes-do-design.md)
+- [Módulo 2 – Design Thinking](docs/03-o-que-e-design-thinking.md)
