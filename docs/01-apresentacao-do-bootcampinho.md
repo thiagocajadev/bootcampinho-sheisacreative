@@ -66,13 +66,13 @@ Exemplos:
 
 ## Desafio Alfred 🐮
 
-"Tente identificar nesses projetos quais etapas são mais relacionadas à Interface do Usuários (UI) e quais são relacionadas a Experiência do Usuário (UX)."
+Tente identificar nesses projetos quais etapas são mais relacionadas à Interface do Usuários (UI) e quais são relacionadas a Experiência do Usuário (UX).
 
 - [Brazilian Income Tax System](https://www.behance.net/gallery/131015715/Brazilian-Income-Tax-System-UIUX-Relayout-Proposal)
 - [Pollie](https://www.behance.net/gallery/151418227/Pollie)
 - [Garaji](https://www.behance.net/gallery/130417419/Garaji)
 
-"Sugestão: para reforçar seu conhecimento, anote suas descobertas."
+Sugestão: para reforçar seu conhecimento, anote suas descobertas.
 
 ## Resolução
 

@@ -108,9 +108,9 @@ As vezes, quem solicitou o projeto pode não ter alçada ou a última palavra pr
 
 ## Desafio do Alfred 🐮
 
-"Projeto: Escolha um projeto para fazer durante o curso (tema livre)."
+Projeto: Escolha um projeto para fazer durante o curso (tema livre).
 
-"Sugestão: evite utilizar as ideias desta página. Aproveite para exercitar a criatividade. Na dúvida, lembre de todos os momentos em que você passa um raivinha tentando fazer algo rs… (talvez seja um bom problema para resolver)."
+Sugestão: evite utilizar as ideias desta página. Aproveite para exercitar a criatividade. Na dúvida, lembre de todos os momentos em que você passa um raivinha tentando fazer algo rs… (talvez seja um bom problema para resolver).
 
 ## Resolução
 

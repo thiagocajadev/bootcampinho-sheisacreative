@@ -58,7 +58,7 @@ Brainstorming, Análise competitiva, busca de referências (concorrentes, relayo
 
 ## Desafio do Alfred 🐮
 
-"Ferramentas de Descoberta: aplique pelo menos um método ou ferramentas de Descoberta (Discovery). Ao final, ao menos um dos métodos aplicados deverá envolver pesquisa com usuários, de preferência no formato de entrevistas."
+Ferramentas de Descoberta: aplique pelo menos um método ou ferramentas de Descoberta (Discovery). Ao final, ao menos um dos métodos aplicados deverá envolver pesquisa com usuários, de preferência no formato de entrevistas.
 
 > Ex.: Pesquisa Qualitativa, Desk research, pesquisa quantitativa,…
 

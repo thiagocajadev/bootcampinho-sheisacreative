@@ -82,9 +82,9 @@ A leitura ajuda no design pensado nas pessoas.
 
 ## Desafio do Alfred 🐮
 
-"Briefing: crie o briefing do seu projeto."
+Briefing: crie o briefing do seu projeto.
 
-"Template de perguntas: de preferir, utilize as perguntas listadas em Briefing, disponível no template de projetos do Notion."
+Template de perguntas: de preferir, utilize as perguntas listadas em Briefing, disponível no template de projetos do Notion.
 
 Objetivo da etapa:
 Seu objetivo, ao final do briefing, é ter de forma clara:
